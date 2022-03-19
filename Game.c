@@ -39,7 +39,7 @@ int rockpaperscissor(char you, char comp)
         return -1;
     }
 }
-.
+
 int main()
 {
     char you, comp;
